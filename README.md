@@ -1,2 +1,2 @@
 # NIRSTest1
-The project is mainly consists of 2 parts: Android application and machine learning, while the core implementation of the app is in NewScanActivity.java.
+The project mainly consists of 2 parts: Android part and Machine Learning.
